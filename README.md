@@ -11,7 +11,8 @@ MINIO S3 STORAGE BACKUP INSTALL PTERODACTYL:
 4.	Install S3 Storage server with custom defined port –wait for server ready /green/
 5.	normal/update/rotate to normal - startup type(pterodactyl - manage server)
 6.	copy filemanager – keys key&secret
-7.	edit panel side file .env and add this to end:
+7.	login http://7.9.109.124:26611 and create bucket (name: first) --> edit policy to read/write
+8.	edit panel side file .env and add this to end (with yours data):
 
 ```
 # Set your panel to use s3 for backups
@@ -29,7 +30,7 @@ AWS_BACKUPS_BUCKET=first
 AWS_ENDPOINT=http://7.9.109.124:26611
 ```
 
-8.	save and restart panel if not work try https://pterodactyl.io/panel/1.0/updating.html
-9.	done :D
+9.	save and restart panel if not work try https://pterodactyl.io/panel/1.0/updating.html
+10.	done :D
 
 Thank you/Ďakujem and follow me 😊
