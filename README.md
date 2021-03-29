@@ -33,4 +33,4 @@ AWS_ENDPOINT=http://7.9.109.124:26611
 9.	save and restart panel if not work try https://pterodactyl.io/panel/1.0/updating.html
 10.	done :D
 
-Thank you/Ďakujem and follow me 😊
+Like & Follow me ^^ thank you 😊
