@@ -1,0 +1,17 @@
+/bin/*
+/steamcmd/*
+/steamapps/*
+/platform/*
+/Steam/*
+/bin/*
+/hl2/*
+/dod/maps/*
+/dod/addons/sourcemod/logs/*
+/dod/dod_pak_004.vpk
+/dod/dod_pak_005.vpk
+/dod/dod_pak_006.vpk
+/dod/dod_pak_000.vpk
+/dod/dod_pak_002.vpk
+/dod/dod_pak_001.vpk
+/dod/dod_pak_003.vpk
+/dod/dod_pak.vpk.sound.cache
