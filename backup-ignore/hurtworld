@@ -1,0 +1,7 @@
+/.config/*
+/.steam/*
+/platform/*
+/linux64/*
+/Steam/*
+/steamapps/*
+/steamcmd/*
